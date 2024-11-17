@@ -5,3 +5,9 @@
 
 ### useRef
 <img src="./views/useRef.png"/>
+
+### useEffect
+<img src="./views/useEffect.png"/>
+
+### useReducer
+<img src="./views/useReducer.png"/>
