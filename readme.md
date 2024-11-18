@@ -14,3 +14,6 @@
 
 ### useContext
 <img src="./views/useContext.png"/>
+
+### useMemo
+<img src="./views/useMemo.png"/>
