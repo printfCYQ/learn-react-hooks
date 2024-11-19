@@ -23,3 +23,6 @@
 
 ### useTransition
 <img src="./views/useTransition.png"/>
+
+### useDeferredValue
+<img src="./views/useDeferredValue.png"/>
